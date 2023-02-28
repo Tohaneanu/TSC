@@ -9,3 +9,5 @@ test
 	git config --global --list
 
 4) git config --global credential.helper store
+
+verificare daca mai cere parola
