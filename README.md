@@ -12,3 +12,4 @@ test
 
 verificare daca mai cere parola
 5) ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+test
